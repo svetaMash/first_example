@@ -12,6 +12,7 @@ public class Stringi {
         //String[] words = str.split(" +"); //разделение на слова
         char[] result = str.toCharArray();
         int sum = 0;
+        int sum1 = 3;
 
 
         for (int i = 0; i < result.length; i++) {
